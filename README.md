@@ -2,6 +2,8 @@
 
 在此感谢SRInternet提供该项目的模板
 
+项目地址：[https://github.com/SRInternet/Home_Page](https://github.com/SRInternet/Home_Page)
+
 **此项目为我的个人主页**
 
 **本项目使用了GPLv3.0LICENSE**
