@@ -3,10 +3,10 @@
 
 
 <p align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangHanchen&theme=date_night">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangHanchen&theme=dark">
 </p>
 <p align="left"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=date_night"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=dark"/>
 </p>
 
 
