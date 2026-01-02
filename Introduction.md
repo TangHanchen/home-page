@@ -15,29 +15,3 @@
 ![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPlusPlus)
 ![Static Badge](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
 ![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=TangHanchen/home_page&type=date&legend=top-left)](https://www.star-history.com/#TangHanchen/home_page&type=date&legend=top-left)
-
